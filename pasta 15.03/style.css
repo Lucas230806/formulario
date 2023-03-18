@@ -1,0 +1,78 @@
+body{
+    background: linear-gradient(#f2be5c, #ff8c00);
+    justify-content: center;
+    display: flex;align-items: center;
+    min-height: 100vh;
+    
+}
+
+.container header{
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    
+}
+
+header{
+    display: block;
+    align-items: center;
+    
+}
+
+.container{
+text-align: center;
+background-color: #fff;
+width: 330px;
+border-radius: 1rem;
+padding: 3rem 2rem 0.7rem 2rem;
+}
+
+.barra-de-progresso .nome__etapa{
+    height: 25px;
+    width: 25px;
+    border: 2px solid #000;
+    display: inline-block;
+    border-radius: 100%;
+    font-size: 17px;
+    font-weight: 500px;
+    line-height: 25px;
+    margin-left:55px;
+}
+
+.container .barra-de-progresso{
+    display: flex;
+    margin: 3rem 0;
+    text-align: center;
+
+}
+
+h4{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #000;
+    
+}
+
+ p{
+    font-weight: 500;
+    font-size: 1.2em;
+    color: #000;
+    margin-bottom: 0.7em;
+    margin-top: -39px;
+}
+
+.barra-de-progresso .numero__etapa{
+    margin-left: 1px;
+    margin-top: 14px;
+}
+
+
+
+
+
+
+
+
+
